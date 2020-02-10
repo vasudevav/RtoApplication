@@ -1,0 +1,4 @@
+[WARN] :: 12-18-20 12:18:16 699 [HikariPool-1 housekeeper]  com.zaxxer.hikari.pool.HikariPool$HouseKeeper  787  run  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16h37m17s206ms805µs).  
+[WARN] :: 12-33-20 12:33:01 389 [HikariPool-1 housekeeper]  com.zaxxer.hikari.pool.HikariPool$HouseKeeper  787  run  HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=10m14s225ms949µs400ns).  
+[INFO] :: 12-14-20 01:14:54 252 [RMI TCP Connection(2)-127.0.0.1]  com.zaxxer.hikari.HikariDataSource  350  close  HikariPool-1 - Shutdown initiated...  
+[INFO] :: 12-14-20 01:14:54 473 [RMI TCP Connection(2)-127.0.0.1]  com.zaxxer.hikari.HikariDataSource  352  close  HikariPool-1 - Shutdown completed.  
